@@ -1,0 +1,6 @@
+spring:
+  cloud:
+    gcp:
+      security:
+        iap:
+          audience: dummy
